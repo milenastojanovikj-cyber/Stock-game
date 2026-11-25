@@ -1,0 +1,6 @@
+{
+  "name": "MoneyQuest",
+  "description": "Playable Android & tablet financial well-being strategy game: earn income, invest in stocks, build an emergency fund, and reach financial freedom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
